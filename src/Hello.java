@@ -6,6 +6,7 @@ public class Hello {
 		System.out.println("Nowa wersja");
 		System.out.println("Nowa wersja 2");
 		System.out.println("Nowa wersja 3");
+		System.out.println("Nowa wersja 4");
 
 	}
 
