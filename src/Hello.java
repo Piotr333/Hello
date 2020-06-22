@@ -1,11 +1,10 @@
-
 public class Hello {
 
 	public static void main(String[] args) {
-		System.out.println("Hello world");
-		System.out.println("Nowa wersja");
-		System.out.println("Nowa wersja 2");
-		System.out.println("Nowa wersja 6");
+	
+		String napis = "aaa";
+		boolean prawda = StringUtilsMod.isNumeric(napis);
+		System.out.println(prawda);
 
 	}
 
